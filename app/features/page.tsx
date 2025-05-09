@@ -111,7 +111,6 @@ export default function FeaturesPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <main className="flex-1">
-        {/* Features Grid Section */}
         <section className="py-20">
           <div className="container">
             <div className="mb-12 text-center">
