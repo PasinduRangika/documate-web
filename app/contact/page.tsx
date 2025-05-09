@@ -77,7 +77,7 @@ export default function ContactPage() {
         <section className="py-20">
           <div className="container">
             <div className="mb-12 text-center">
-              <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl">Contact Us</h1>
+              <h1 className="text-4xl font-bold  sm:text-5xl">Contact Us</h1>
               <p className="mx-auto mt-4 max-w-[700px] text-muted-foreground">
                 Have questions or feedback? We'd love to hear from you.
               </p>

@@ -118,7 +118,7 @@ export default function Home() {
             <div className="mb-4  ">
               {/* Browser-based Document Camera Controller */}
             </div>
-            <h1 className="pb-[10px] text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent dark:from-white dark:to-gray-300">
+            <h1 className="pb-[10px] text-4xl font-bold  sm:text-5xl md:text-6xl bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent dark:from-white dark:to-gray-300">
               Effortless Camera Control. Right in Your Browser
             </h1>
             <p className="mx-auto max-w-[700px] text-gray-600 dark:text-gray-400 md:text-xl">
@@ -200,7 +200,7 @@ export default function Home() {
             <Badge className="mb-4 bg-[#BBD5F8]/10 text-[#BBD5F8] hover:bg-[#BBD5F8]/20 dark:bg-[#BBD5F8]/20">
               Features
             </Badge>
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent dark:from-white dark:to-gray-300">
+            <h2 className="pb-[10px] text-3xl font-bold  sm:text-4xl md:text-5xl bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent dark:from-white dark:to-gray-300">
               Key Features
             </h2>
             <p className="mx-auto mt-4 max-w-[700px] text-gray-600 dark:text-gray-400">
@@ -267,7 +267,7 @@ export default function Home() {
             <Badge className="mb-4 bg-[#9DEAA8]/10 text-[#9DEAA8] hover:bg-[#9DEAA8]/20 dark:bg-[#9DEAA8]/20">
               Compatibility
             </Badge>
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent dark:from-white dark:to-gray-300">
+            <h2 className="pb-[10px] text-3xl font-bold  sm:text-4xl md:text-5xl bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent dark:from-white dark:to-gray-300">
               Compatible with Leading Document Cameras
             </h2>
             <p className="mx-auto mt-4 max-w-[700px] text-gray-600 dark:text-gray-400">
@@ -342,7 +342,7 @@ export default function Home() {
                 <Badge className="mb-2 bg-white/80 text-gray-900 hover:bg-white dark:bg-gray-800 dark:text-white">
                   Get Started Today
                 </Badge>
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent dark:from-white dark:to-gray-300">
+                <h2 className="text-3xl pb-[10px] font-bold  sm:text-4xl bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent dark:from-white dark:to-gray-300">
                   Ready to Get Started?
                 </h2>
                 <p className="text-gray-600 dark:text-gray-400">

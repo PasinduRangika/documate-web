@@ -140,7 +140,7 @@ export default function AboutPage() {
       <section className="py-20">
         <div className="container">
           <div className="mb-12 text-center">
-            <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent dark:from-white dark:to-gray-300">
+            <h1 className="text-4xl font-bold  sm:text-5xl bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent dark:from-white dark:to-gray-300">
               About Documate
             </h1>
             <p className="mx-auto mt-4 max-w-[700px] text-gray-600 dark:text-gray-400">

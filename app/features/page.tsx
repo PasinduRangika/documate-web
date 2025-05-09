@@ -115,7 +115,7 @@ export default function FeaturesPage() {
         <section className="py-20">
           <div className="container">
             <div className="mb-12 text-center">
-              <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl">Features</h1>
+              <h1 className="text-4xl font-bold sm:text-5xl">Features</h1>
               <p className="mx-auto mt-4 max-w-[700px] text-muted-foreground">
                 Discover all the powerful features that make Documate the perfect solution for your document camera
                 needs
